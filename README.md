@@ -1,1 +1,3 @@
-# investment_calc
+This investment calculator app allows users to estimate the future value of their investments based on initial investment, annual contributions, expected returns, and investment duration. It utilizes React for the frontend interface and provides comprehensive investment results, including yearly breakdowns of interest earned and total investment value. Additionally, the app integrates the Firebase platform for authentication and data storage, ensuring secure user interactions. Empower yourself with financial insights and plan your investments effectively with this intuitive investment calculator app.
+https://investmentcalculator-4f426.web.app/ 
+This is the url to check out this app
